@@ -84,6 +84,7 @@ Testing
 
 ### [Scholarship Terms](https://portfolio.abrshewube.tech/)
 - 🎓 Developed Scholarshipterm.com, a website providing information on fellowships and scholarships.
+- 
 
 ## Connect with Me
-📧 jankoabel2022@gmail.com | 🌐 [Personal Portfolio](https://portfolio.abrshewube.tech/) | 💼 [LinkedIn](https://www.linkedin.com/in/abrham-wube-148a12247/) | 🐙 [GitHub](https://github.com/abrshewube/)
+📧 jankoabel2022@gmail.com | 🌐 [Personal Portfolio](https://janko-abel.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/abel-janko-567964226/) | 🐙 [GitHub](https://github.com/jankoabel/)
