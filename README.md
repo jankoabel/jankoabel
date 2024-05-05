@@ -1,6 +1,6 @@
 ﻿# Hi there! 👋
 
-I'm Abrham Wube, a passionate software engineer dedicated to crafting exceptional software solutions. Welcome to my GitHub profile! Here's a glimpse of my journey so far:
+I'm Janko Abel, a passionate software engineer dedicated to crafting exceptional software solutions. Welcome to my GitHub profile! Here's a glimpse of my journey so far:
 
 
 ## Skills
@@ -86,4 +86,4 @@ Testing
 - 🎓 Developed Scholarshipterm.com, a website providing information on fellowships and scholarships.
 
 ## Connect with Me
-📧 abrhamwube1@gmail.com | 🌐 [Personal Portfolio](https://portfolio.abrshewube.tech/) | 💼 [LinkedIn](https://www.linkedin.com/in/abrham-wube-148a12247/) | 🐙 [GitHub](https://github.com/abrshewube/)
+📧 jankoabel2022@gmail.com | 🌐 [Personal Portfolio](https://portfolio.abrshewube.tech/) | 💼 [LinkedIn](https://www.linkedin.com/in/abrham-wube-148a12247/) | 🐙 [GitHub](https://github.com/abrshewube/)
