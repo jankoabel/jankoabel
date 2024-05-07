@@ -11,7 +11,7 @@ I'm Janko Abel, a passionate software engineer dedicated to crafting exceptional
 ![TypeScript](https://img.icons8.com/color/24/000000/typescript.png) TypeScript
 
 ### Frameworks/Libraries
-![.NET](https://wellcreator.com/blog/wp-content/uploads/2023/05/dotnet.png){:height="24px" width="24px"} .NET
+.NET
 ![React](https://img.icons8.com/color/24/000000/react-native.png) React
 ![Angular](https://img.icons8.com/color/24/000000/angularjs.png) Angular
 ![Node.js](https://img.icons8.com/color/24/000000/nodejs.png) Node.js
@@ -35,8 +35,8 @@ I'm Janko Abel, a passionate software engineer dedicated to crafting exceptional
 At Adiss Software PLC, I specialized in website and application development using .NET Core and Umbraco technologies. With .NET Core, I focused on backend development, harnessing its powerful features to build robust project foundations. In Umbraco, I utilized its user-friendly content management system to enable clients to manage their content effortlessly. Responsibilities included implementing features such as user authentication, data management, and dynamic content rendering using these technologies. This approach ensured the delivery of efficient, scalable, and easy-to-maintain solutions to our clients.
 
 #### Skills Utilized:
-![.NET Core](https://wellcreator.com/blog/wp-content/uploads/2023/05/dotnet.png){:height="24px" width="24px"} .NET Core
-![Umbraco](https://umbraco.com/media/ziikdjap/umbraco_social_og.png){:height="24px" width="24px"} Umbraco
+.NET Core
+ Umbarko
 
 ---
 
