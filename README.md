@@ -50,9 +50,7 @@ At Upwork, I have been involved in the development and maintenance of MERN stack
 ![React](https://img.icons8.com/color/24/000000/react-native.png) React
 ![Node.js](https://img.icons8.com/color/24/000000/nodejs.png) Node.js
 ![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png) MongoDB
-MERN Stack Development
-API Integration
-Testing & Debugging
+
 
 ---
 
