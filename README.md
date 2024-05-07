@@ -62,7 +62,7 @@ Testing & Debugging
 - 🛒 Created a MERNstack Ecommerce website for seamless online shopping.
 - 🔐 Integrated secure payments and user authentication.
 
-### [Scholarship Terms](https://portfolio.abrshewube.tech/)
+### [Scholarship Terms](https://scholarshipterm.com/)
 - 🎓 Developed Scholarshipterm.com, a website providing information on fellowships and scholarships.
   
 ## Connect with Me
