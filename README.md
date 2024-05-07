@@ -34,40 +34,41 @@ I'm Janko Abel, a passionate software engineer dedicated to crafting exceptional
 ![Testing](https://img.icons8.com/color/48/000000/testing.png) Testing
 
 
+## PROFESSIONAL EXPERIENCE
 
-## Professional Experience
+### Junior .NET Core and Umbraco Developer
+**Company:** Adiss Software PLC  
+**Location:** Addis Ababa, Ethiopia  
+**Duration:** 09/2021 – 08/2022  
 
-### ML Developer at Farka ICT Solutions PLC.
-- 🧠 Developed an ML system in collaboration with Addis Ababa University.
-- 💻 Trained ML models using Python and ML algorithms.
-- 📈 Designed an intelligent system for comparing university programs.
-
-#### Skills Utilized:
-![Python](https://img.icons8.com/color/48/000000/python.png) Python
-Machine Learning & Data Visualization
-Collaboration
-
-### Spring Boot Developer at Hapo Tech.
-- 🚀 Proficient in enterprise-grade app development with Spring Boot.
-- 🛠️ Skilled in RESTful API development and Microservices architecture.
-- 🧪 Strong expertise in testing with JUnit and Mockito.
+At Farka ICT Solutions PLC, I specialized in website and application development using .NET Core and Umbraco technologies. With .NET Core, I focused on backend development, harnessing its powerful features to build robust project foundations. In Umbraco, I utilized its user-friendly content management system to enable clients to manage their content effortlessly. Responsibilities included implementing features such as user authentication, data management, and dynamic content rendering using these technologies. This approach ensured the delivery of efficient, scalable, and easy-to-maintain solutions to our clients.
 
 #### Skills Utilized:
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
-![API](https://img.icons8.com/dusk/64/000000/api-settings.png) API
-Testing
+![.NET Core](https://img.icons8.com/color/48/000000/dot-net.png) .NET Core
+![Umbraco](https://img.icons8.com/color/48/000000/umbraco.png) Umbraco
+Backend Development
+Content Management
+User Authentication
 
-### MERN Stack Developer at Tria Trading PLC
-- 🌐 Developed and maintained MERN stack web applications.
-- 🤝 Collaborated with cross-functional teams to translate requirements into software solutions.
-- ⚙️ Implemented RESTful APIs and integrated third-party services.
+### Junior MERN Stack Developer
+**Company:** Upwork  
+**Location:** Remote  
+**Duration:** 04/2023 – Present  
+
+- Developed and maintained MERN stack web applications, ensuring functionality and scalability.
+- Collaborated with cross-functional teams to translate requirements into software solutions.
+- Implemented RESTful APIs and integrated third-party services to enhance application functionality.
+- Conducted thorough testing, debugging, and implemented security measures for high-quality deliverables.
 
 #### Skills Utilized:
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
 ![React](https://img.icons8.com/color/48/000000/react-native.png) React
 ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
+MERN Stack Development
+API Integration
+Testing & Debugging
+
 
 ## Projects
 
