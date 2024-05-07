@@ -22,8 +22,6 @@ I'm Janko Abel, a passionate software engineer dedicated to crafting exceptional
 ![MySQL](https://img.icons8.com/color/24/000000/mysql.png) MySQL
 ![ PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/24px-Postgresql_elephant.svg.png) PostgreSQL
 
-### Testing
-![Testing](https://global-uploads.webflow.com/619e15d781b21202de206fb5/24px-what-is-testing.jpg) Testing
 
 # 🚀 Professional Experience 🛠️
 
