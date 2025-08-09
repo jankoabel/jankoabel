@@ -24,35 +24,3 @@ I'm Janko Abel, a passionate software engineer dedicated to crafting exceptional
 ![MySQL](https://img.icons8.com/color/24/000000/mysql.png) MySQL
 ![ PostgreSQL](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/24px-Postgresql_elephant.svg.png) PostgreSQL
 
-
-# 🚀 Professional Experience 🛠️
-
-## Mid-Level MERN Stack Developer
-**Company:** Upwork  
-**Location:** Remote  
-**Duration:** 04/2023 – Present  
-
-- Developed and maintained MERN stack web applications, ensuring functionality and scalability.
-- Implemented RESTful APIs and integrated third-party services to enhance application functionality.
-- Conducted thorough testing, debugging, and implemented security measures for high-quality deliverables.
-
-## Mid-Level .NET Core and Umbraco Developer
-**Company:** Seerlinq  
-**Location:** Bratislava, Slovakia  
-**Duration:** 05/2023 – 04/2024  
-
-- Specialized in website and application development using .NET Core and Umbraco technologies.
-- Focused on backend development with .NET Core, building robust project foundations.
-
-## Junior Software Developer
-**Company:** Tria Print Trading LLC  
-**Location:** Dubai, United Arab Emirates  
-**Duration:** 12/2022 – 04/2023  
-
-- Contributed to MERN Stack projects, actively participating in development, debugging, and testing of software applications.
-- Collaborated closely with senior developers, troubleshooting issues and assisting in project documentation.
-- Gained valuable experience and enhanced proficiency in MERN Stack technologies, demonstrating adaptability and teamwork.
-
-
-## Connect with Me
-📧 jankoabel2022@gmail.com | 🌐 [Personal Portfolio](https://www.jankoabu.com) | 💼 [LinkedIn](https://www.linkedin.com/in/abel-janko-567964226/) | 🐙 [GitHub](https://github.com/jankoabel/)
